@@ -1,0 +1,38 @@
+{
+    "input_generator": {
+        "splitting_HTML": {
+            "split": [
+                {
+                    "input_JSON_path": "./data/table_json",
+                    "input_pickle_path": "./data/pickle_folder", 
+                    "input_HTML_path": "./data/table_html",
+                    "output_HTML_path": "./data/html_table_split_result"
+                },
+                {
+                    "table_representation": {
+                        "JSON": {
+                            "input_path": "./data/split/table_split_json/",
+                            "output_path": "./data/split/json_representation"
+                        },
+                        "TSV": {
+                            "input_path": "./data/split/table_split_json/",
+                            "output_path": "./data/split/tsv_representation"
+                        }
+                    }
+                }
+            ],
+            "non_split": {
+                "table_representation": {
+                    "JSON": {
+                        "input_path": "./data/non_split/table_json/",
+                        "output_path": "./data/non_split/json_representation"
+                    },
+                    "TSV": {
+                        "input_path": "./data/non_split/table_json/",
+                        "output_path": "./data/non_split/tsv_representation"
+                    }
+                }
+            }
+        }
+    }
+}
