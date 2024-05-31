@@ -1,0 +1,25 @@
+{
+    "model" :{
+        "fine_tuning" : {
+            "input_path" : "./split/tsv_representation/",
+            "output_path" : "./data/result/fine_tuning",
+            "fq" : {
+                "path" : "./data/result/fine_tuning"
+            }
+        },
+        "few_shot" : {
+            "input_path" : "./data/split/tsv_representation/",
+            "output_path" : "./data/result/few_shot",
+            "fq" : {
+                "path" : "./data/result/few_shot"
+            }
+        },
+        "zero_shot" : {
+            "input_path" : "./data/split/tsv_representation/",
+            "output_path" : "./data/result/zero_shot",
+            "fq" : {
+                "path" : "./data/result/zero_shot"
+            }
+        }
+    }
+}
