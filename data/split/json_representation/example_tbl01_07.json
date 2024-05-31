@@ -1,0 +1,22 @@
+{
+    "Title": "Table 1. Comparison of OER Performance for Several MOFs Electrocatalysts",
+    "catalyst": [
+        "2D Co\u2013MOF UNS"
+    ],
+    "electrolyte": [
+        "1 M KOH"
+    ],
+    "\u03b7 at 10 mA\u00a0cm<sup>\u20132</sup> (mV)": [
+        263
+    ],
+    "Tafel slope (mV/decade)": [
+        74
+    ],
+    "durability (h)": [
+        3.3
+    ],
+    "ref": [
+        "(18)"
+    ],
+    "caption": ""
+}

@@ -1,0 +1,22 @@
+{
+    "Title": "Table 1. Comparison of OER Performance for Several MOFs Electrocatalysts",
+    "catalyst": [
+        "Co-BPDC/Co-BDC heterojunction"
+    ],
+    "electrolyte": [
+        "1 M KOH"
+    ],
+    "\u03b7 at 10 mA\u00a0cm<sup>\u20132</sup> (mV)": [
+        335
+    ],
+    "Tafel slope (mV/decade)": [
+        72.1
+    ],
+    "durability (h)": [
+        80
+    ],
+    "ref": [
+        "this work"
+    ],
+    "caption": ""
+}

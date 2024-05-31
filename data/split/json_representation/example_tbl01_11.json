@@ -1,0 +1,22 @@
+{
+    "Title": "Table 1. Comparison of OER Performance for Several MOFs Electrocatalysts",
+    "catalyst": [
+        "Co<sub>0.6</sub>Fe<sub>0.4</sub>-MOF-74"
+    ],
+    "electrolyte": [
+        "1 M KOH"
+    ],
+    "\u03b7 at 10 mA\u00a0cm<sup>\u20132</sup> (mV)": [
+        280
+    ],
+    "Tafel slope (mV/decade)": [
+        56
+    ],
+    "durability (h)": [
+        12
+    ],
+    "ref": [
+        "(3)"
+    ],
+    "caption": ""
+}

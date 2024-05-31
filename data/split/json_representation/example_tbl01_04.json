@@ -1,0 +1,22 @@
+{
+    "Title": "Table 1. Comparison of OER Performance for Several MOFs Electrocatalysts",
+    "catalyst": [
+        "Co/MIL-101(Cr)-O"
+    ],
+    "electrolyte": [
+        "0.1 M KOH"
+    ],
+    "\u03b7 at 10 mA\u00a0cm<sup>\u20132</sup> (mV)": [
+        570
+    ],
+    "Tafel slope (mV/decade)": [
+        17
+    ],
+    "durability (h)": [
+        "\u2013"
+    ],
+    "ref": [
+        "(40)"
+    ],
+    "caption": ""
+}

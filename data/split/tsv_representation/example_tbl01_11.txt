@@ -1,0 +1,1 @@
+﻿<title>Table 1. Comparison of OER Performance for Several MOFs Electrocatalysts</title><table>catalyst\telectrolyte\tη at 10 mA cm<sup>–2</sup> (mV)\tTafel slope (mV/decade)\tdurability (h)\tref\t\nCo<sub>0.6</sub>Fe<sub>0.4</sub>-MOF-74\t1 M KOH\t280\t56\t12\t (3)\t\n</table>

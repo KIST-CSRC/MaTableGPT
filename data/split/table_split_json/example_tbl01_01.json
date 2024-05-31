@@ -1,0 +1,5 @@
+{
+    "title": "Table 1. Comparison of OER Performance for Several MOFs Electrocatalysts",
+    "caption": "",
+    "tag": "<table class=\"table\"><table><thead><tr class=\"colsep0\" valign=\"top\"><th align=\"center\" class=\"colsep0 rowsep0\">catalyst</th><th align=\"center\" class=\"colsep0 rowsep0\">electrolyte</th><th align=\"center\" char=\".\" class=\"colsep0 rowsep0\">η at 10 mA cm<sup>–2</sup> (mV)</th><th align=\"center\" char=\".\" class=\"colsep0 rowsep0\">Tafel slope (mV/decade)</th><th align=\"center\" char=\".\" class=\"colsep0 rowsep0\">durability (h)</th><th align=\"center\" class=\"colsep0 rowsep0\">ref</th></tr></thead><tbody> <tr> <td>Co-BPDC/Co-BDC heterojunction</td> <td>1 M KOH</td> <td>335</td> <td>72.1</td> <td>80</td> <td>this work</td> </tr> </tbody></table></table>"
+}

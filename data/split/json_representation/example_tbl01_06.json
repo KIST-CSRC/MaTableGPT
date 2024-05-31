@@ -1,0 +1,22 @@
+{
+    "Title": "Table 1. Comparison of OER Performance for Several MOFs Electrocatalysts",
+    "catalyst": [
+        "UTSA-16"
+    ],
+    "electrolyte": [
+        "1 M KOH"
+    ],
+    "\u03b7 at 10 mA\u00a0cm<sup>\u20132</sup> (mV)": [
+        408
+    ],
+    "Tafel slope (mV/decade)": [
+        77
+    ],
+    "durability (h)": [
+        7
+    ],
+    "ref": [
+        "(42)"
+    ],
+    "caption": ""
+}
